@@ -1,0 +1,33 @@
+c:\users\joscr\documents\visual studio 2015\Projects\Storywriter\Storyboard\bin\Debug\Storyboard.exe.config
+c:\users\joscr\documents\visual studio 2015\Projects\Storywriter\Storyboard\bin\Debug\Storyboard.exe
+c:\users\joscr\documents\visual studio 2015\Projects\Storywriter\Storyboard\bin\Debug\Storyboard.pdb
+c:\users\joscr\documents\visual studio 2015\Projects\Storywriter\Storyboard\bin\Debug\Storywriter.dll
+c:\users\joscr\documents\visual studio 2015\Projects\Storywriter\Storyboard\bin\Debug\Storywriter.pdb
+c:\users\joscr\documents\visual studio 2015\Projects\Storywriter\Storyboard\obj\Debug\Storyboard.csprojResolveAssemblyReference.cache
+c:\users\joscr\documents\visual studio 2015\Projects\Storywriter\Storyboard\obj\Debug\Storyboard.exe
+c:\users\joscr\documents\visual studio 2015\Projects\Storywriter\Storyboard\obj\Debug\Storyboard.pdb
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Storyboard\bin\Debug\Storyboard.exe.config
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Storyboard\bin\Debug\Storyboard.exe
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Storyboard\bin\Debug\Storyboard.pdb
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Storyboard\bin\Debug\Storywriter.dll
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Storyboard\bin\Debug\Storywriter.pdb
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Storyboard\obj\Debug\Storyboard.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Storyboard\obj\Debug\Storyboard.exe
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Storyboard\obj\Debug\Storyboard.pdb
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Storyboard\bin\Debug\Bass.Net.dll
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Storyboard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Storyboard\bin\Debug\Sbter.dll
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Storyboard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Storyboard\bin\Debug\Sbter.pdb
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Storyboard\bin\Debug\Storyboard.exe.config
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Storyboard\obj\Debug\Storyboard.exe
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Storyboard\obj\Debug\Storyboard.pdb
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Storyboard\obj\Debug\Storyboard.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Storyboard\bin\Debug\Storyboard.exe
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Storyboard\bin\Debug\Storyboard.pdb
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Storyboard\bin\Debug\Sbter.dll
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Storyboard\bin\Debug\Bass.Net.dll
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Storyboard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Storyboard\bin\Debug\Sbter.pdb
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Storyboard\bin\Debug\Storywriter.pdb
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Storyboard\bin\Debug\Bass.Net.xml

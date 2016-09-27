@@ -1,0 +1,16 @@
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Sbter\bin\Debug\Sbter.dll
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Sbter\bin\Debug\Sbter.pdb
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Sbter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Sbter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Sbter\obj\Debug\Sbter.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Sbter\obj\Debug\Sbter.dll
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Sbter\obj\Debug\Sbter.pdb
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\Sbter\bin\Debug\Bass.Net.dll
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Sbter\bin\Debug\Sbter.dll
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Sbter\bin\Debug\Sbter.pdb
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Sbter\bin\Debug\Bass.Net.dll
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Sbter\bin\Debug\Bass.Net.xml
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Sbter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Sbter\obj\Debug\Sbter.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Sbter\obj\Debug\Sbter.dll
+C:\Users\Cristian Ch\Documents\VSProjects\Storywriter\SBWriterG\Sbter\obj\Debug\Sbter.pdb
