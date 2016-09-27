@@ -4,4 +4,4 @@
 
 Dependencies:
 
-[Json.NET][https://github.com/JamesNK/Newtonsoft.Json]
+[Json.NET](https://github.com/JamesNK/Newtonsoft.Json)
